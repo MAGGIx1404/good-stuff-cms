@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_marquee_marquees",
+  "info": {
+    "displayName": "Marquee",
+    "icon": "feather"
+  },
+  "options": {},
+  "attributes": {
+    "marquee": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
