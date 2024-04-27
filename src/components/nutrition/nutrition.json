@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_nutrition_nutritions",
+  "info": {
+    "displayName": "Nutrition",
+    "icon": "chartBubble"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "quantity": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
